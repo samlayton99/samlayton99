@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, I'm Sam Layton</h1>
 <h3 align="center">An Applied Mathematician who specializes in AI/Machine Learning and Economic Analysis. </h3>
 
+<p>
 Welcome to my GitHub! Here, you'll find a combination of my passion projects, open-source collaborations, academic research repositories, and innovative techniques I've personally pioneered.
 
 You'll discover a surprising diversity among my repositories. The topics I delve into include Optimization, Quantitative Finance, Quantum Computing and Optics, Probability Theory, Abstract Algebra, Facial Recognition, Big Data, Fourier Analysis, Data Structures, and even Deep Learning.
@@ -14,7 +15,7 @@ More than just providing technical solutions, I also draw from my economics back
 2. Open-source subtitle glasses for those with hearing impairments
 3. Learning deep learning with scikit.learn, pytorch, and tensor flow
 4. Quasi - Momentum Strategies (Quantitative Finance Research Paper)
-
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samlayton99&label=Profile%20views&color=0e75b6&style=flat" alt="samlayton99" /> </p>
 
