@@ -2,6 +2,7 @@
 <h3 align="center">An Applied Mathematician who specializes in AI/Machine Learning and Economic Analysis. </h3>
 <br>
 <p>
+**Introduction:**
 Welcome to my GitHub! Here, you'll find a combination of my passion projects, open-source collaborations, academic research repositories, and innovative techniques I've personally pioneered.
 
 You'll discover a surprising diversity among my repositories. The topics I delve into include Optimization, Quantitative Finance, Quantum Computing and Optics, Probability Theory, Abstract Algebra, Facial Recognition, Big Data, Fourier Analysis, Data Structures, and even Deep Learning.
@@ -9,8 +10,10 @@ You'll discover a surprising diversity among my repositories. The topics I delve
 While these topics might seem unrelated at first glance, the underlying specialty I'm drawn to is the mathematical tools employed in each. Where most people wince at the thought of higher-level math, I get excited.
 
 More than just providing technical solutions, I also draw from my economics background. I specialize in crafting realistic and innovative solutions tailored to stakeholders and business deliverables. By integrating these mathematical solutions into their economic context, I naturally bridge the gap between executives and technical experts.
+</p>
+<br>
 
-
+<p>
 **Projects I'm working on:**
 1. Optical efficiency for quantum computing microdisks (Research Paper)
 2. Open-source subtitle glasses for those with hearing impairments
