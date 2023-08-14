@@ -7,9 +7,9 @@ Welcome to my GitHub! Here, you'll find a combination of my passion projects, op
 
 You'll discover a surprising diversity among my repositories. The topics I delve into include Optimization, Quantitative Finance, Quantum Computing and Optics, Probability Theory, Abstract Algebra, Facial Recognition, Big Data, Fourier Analysis, Data Structures, and even Deep Learning.
 
-While these topics might seem unrelated at first glance, the underlying specialty I'm drawn to is the mathematical tools employed in each. Where most people wince at the thought of higher-level math, I get excited.
+While these topics might seem unrelated at first glance, the underlying specialty I'm drawn to is the mathematical tools employed in each. <strong>Where most people wince at the thought of higher-level math, I get excited.</strong>
 
-More than just providing technical solutions, I also draw from my economics background. I specialize in crafting realistic and innovative solutions tailored to stakeholders and business deliverables. By integrating these mathematical solutions into their economic context, I naturally bridge the gap between executives and technical experts.
+More than just providing technical solutions, I also draw from my economics background. I specialize in crafting realistic and innovative solutions <strong>tailored to stakeholders and business deliverables</strong>. By integrating these mathematical solutions into their economic context, I naturally bridge the gap between executives and technical experts.
 </p>
 <br>
 
