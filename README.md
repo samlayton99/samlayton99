@@ -14,11 +14,11 @@ More than just providing technical solutions, I also draw from my economics back
 <br>
 
 <p>
-<strong>Projects I'm working on:</strong><br>
+<strong>Projects I'm Currently working on:</strong><br>
 1. Optical efficiency for quantum computing microdisks (Research Paper)<br>
 2. Open-source subtitle glasses for those with hearing impairments<br>
 3. Learning deep learning with scikit.learn, pytorch, and tensor flow<br>
-4. Quasi - Momentum Strategies (Quantitative Finance Research Paper)
+4. Quasi-Momentum Strategies (Quantitative Finance Research Paper)
 </p>
 
 <br>
