@@ -3,21 +3,32 @@
 <br>
 <p>
 <strong>Introduction:</strong><br>
-Welcome to my GitHub! Here, you'll find a combination of my passion projects, open-source collaborations, academic research repositories, and innovative techniques I've personally pioneered.
+Welcome to my GitHub! Here, you'll find a combination of my passion projects, open-source collaborations, academic research repositories, and other self-developed techniques and tools.
 
-You'll discover a surprising diversity among my repositories. The topics I delve into include Optimization, Quantitative Finance, Quantum Computing and Optics, Probability Theory, Abstract Algebra, Facial Recognition, Big Data, Fourier Analysis, Data Structures, and even Deep Learning.
+You'll discover a surprising diversity among my repositories. Some of the topics I delve into include:
+ - Optimization
+ - Quantitative Finance
+ - Quantum Computing and Optics
+ - Probability Theory
+ - Abstract Algebra
+ - Facial Recognition
+ - Working with Big Data
+ - Fourier Analysis
+ - Deep Learning
+ - AR software
+ - etc.
 
-While these topics might seem unrelated at first glance, the underlying specialty I'm drawn to is the mathematical tools employed in each. <strong>Where most people wince at the thought of higher-level math, I get excited.</strong>
+While these topics might seem unrelated at first glance, one common factor that they all share is their extensive mathematical depth. Navigating these complex mathematical concepts is my primary focus and specialization. <strong>Where most people wince at the thought of higher-level math, I get excited.</strong>
 
-More than just providing technical solutions, I also draw from my economics background. I specialize in crafting realistic and innovative solutions <strong>tailored to stakeholders and business deliverables</strong>. By integrating these mathematical solutions into their economic context, I naturally bridge the gap between executives and technical experts.
+More than just providing technical solutions, I also draw from my economics background. I emphasize crafting realistic and innovative solutions <strong>tailored to stakeholders and business deliverables</strong>. By integrating these mathematical solutions into their economic context, I help bridge the gap between executives and technical experts.
 </p>
 <br>
 
 <p>
 <strong>Projects I'm Currently working on:</strong><br>
 1. Optical efficiency for quantum computing microdisks (Research Paper)<br>
-2. Open-source subtitle glasses for those with hearing impairments<br>
-3. Learning deep learning with scikit.learn, pytorch, and tensor flow<br>
+2. Open-source AR-glasses with conversational subtitles for those with hearing impairments<br>
+3. Exploring deep learning with scikit.learn, pytorch, and tensor flow<br>
 4. Quasi-Momentum Strategies (Quantitative Finance Research Paper)
 </p>
 
