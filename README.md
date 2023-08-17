@@ -2,8 +2,8 @@
 <h3 align="center">An Applied Mathematician who specializes in AI/Machine Learning and Economic Analysis. </h3>
 <br>
 <p>
-<strong>Introduction:</strong><br>
-Welcome to my GitHub! Here, you'll find a combination of my passion projects, open-source collaborations, academic research repositories, and other self-developed techniques and tools.
+<strong>Welcome to my GitHub!</strong><br>
+ Here, you'll find a combination of my passion projects, open-source collaborations, academic research repositories, and other self-developed techniques and tools.
 
 You'll discover a surprising diversity among my repositories. Some of the topics I delve into include:
  - Optimization
