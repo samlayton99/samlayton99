@@ -15,7 +15,7 @@ You'll discover a surprising diversity among my repositories. Some of the topics
  - Working with Big Data
  - Fourier Analysis
  - Deep Learning
- - AR software
+ - Augmented Reality (AR) Software
  - etc.
 
 While these topics might seem unrelated at first glance, one common factor that they all share is their extensive mathematical depth. Navigating these complex mathematical concepts is my primary focus and specialization. <strong>Where most people wince at the thought of higher-level math, I get excited.</strong>
