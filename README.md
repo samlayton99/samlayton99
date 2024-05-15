@@ -26,7 +26,7 @@ More than just providing technical solutions, I also draw from my economics back
 
 <p>
 <strong>Projects I'm Currently working on:</strong><br>
-1. Optical efficiency for quantum computing microdisks (Research Paper)<br>
+1. Optical efficiency for quantum computing microdisks (Research Paper)[Read PDF](Copy of Applied Math Map.pdf)  <br>
 2. Open-source AR-glasses with conversational subtitles for those with hearing impairments<br>
 3. Exploring deep learning with scikit.learn, pytorch, and tensor flow<br>
 4. Quasi-Momentum Strategies (Quantitative Finance Research Paper)
