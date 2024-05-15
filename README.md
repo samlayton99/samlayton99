@@ -60,4 +60,4 @@ More than just providing technical solutions, I also draw from my economics back
 </p>
 
 
-<a href="https://raw.githubusercontent.com/samlayton99/samlayton99/main/Copy%20of%20Applied%20Math%20Map.pdf" target="_blank" rel="noopener noreferrer"> test link </a>
+<a href="https://raw.githubusercontent.com/samlayton99/samlayton99/main/Copy%20of%20Applied%20Math%20Map.pdf" target="_blank" rel="noopener noreferrer">test link</a>
