@@ -59,7 +59,7 @@ More than just providing technical solutions, I also draw from my economics back
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<a href="https://drive.google.com/file/d/1vhu0giRD5VyNKz1ezVeU1-DAe619kHTt/view" target="_blank">Open PDF in a new tab</a>
+<a href="https://www.dropbox.com/scl/fi/cc77nfzdymwqs6jdvs9v1/test_pdf.pdf?rlkey=5r3zlx5sj0rul95ftx7213n8n&st=5p8cf0ja&raw=1" target="_blank">Open PDF in a new tab</a>
 
 
 
