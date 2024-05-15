@@ -26,7 +26,7 @@ More than just providing technical solutions, I also draw from my economics back
 
 <p>
 <strong>Projects I'm Currently working on:</strong><br>
-1. Optical efficiency for quantum computing microdisks (Research Paper)[Read PDF](Copy of Applied Math Map.pdf)  <br>
+1. Optical efficiency for quantum computing microdisks (Research Paper)<br>
 2. Open-source AR-glasses with conversational subtitles for those with hearing impairments<br>
 3. Exploring deep learning with scikit.learn, pytorch, and tensor flow<br>
 4. Quasi-Momentum Strategies (Quantitative Finance Research Paper)
@@ -58,3 +58,6 @@ More than just providing technical solutions, I also draw from my economics back
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+
+<a href=https://github.com/samlayton99/Copy%20of%20Applied%20Math%20Map.pdf> test link </a>
