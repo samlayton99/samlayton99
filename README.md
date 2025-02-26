@@ -2,12 +2,24 @@
 <h3 align="center">An Applied Mathematician who specializes in AI/Machine Learning and Economic Analysis. </h3>
 <br>
 
-<img src="https://github.com/samlayton99/samlayton99/raw/main/categories/linear_algebra/linear_algebra.jpg" alt="Linear Algebra" usemap="#testmap" width="500" height="300">
+<!-- Center the Infographic Image -->
+<p align="center">
+  <img 
+    src="https://github.com/samlayton99/samlayton99/raw/main/categories/linear_algebra/linear_algebra.jpg"
+    alt="Infographic" 
+    width="500"
+  />
+</p>
 
-<map name="testmap">
-  <area shape="rect" coords="0,0,250,300" href="https://www.google.com" alt="Google">
-  <area shape="rect" coords="250,0,500,300" href="https://www.youtube.com" alt="YouTube">
-</map>
+<!-- Center the Table -->
+<p align="center">
+
+| [Linear Algebra](https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md)        | [Probability Theory](https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md)         | [Optimization](https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md)         | [Functional Analysis](https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md)         | [Dynamical Systems](https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md)         |
+| :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| [Machine Learning](https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md) | [Latent Models](https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md) | [Calculus of Variations](https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md) | [Optimal Control](https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md) | [DSA](https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md)                    |
+
+</p>
+
 
 
 <p>
