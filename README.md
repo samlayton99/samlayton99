@@ -2,7 +2,7 @@
 <h3 align="center">An Applied Mathematician who specializes in AI/Machine Learning and Economic Analysis. </h3>
 <br>
 
-<img src="https://github.com/samlayton99/samlayton99/assets/layout.svg" alt="Categories Layout" width="500" height="300">
+<img src="https://github.com/samlayton99/samlayton99/raw/main/assets/layout.svg" alt="Categories Layout" width="500" height="300">
 
 
 
