@@ -5,7 +5,7 @@
 <!-- Center the Infographic Image -->
 <p align="center">
   <img 
-    src="https://github.com/samlayton99/samlayton99/raw/main/assets/test.png"
+    src="https://github.com/samlayton99/samlayton99/raw/main/assets/applied_math.png"
     alt="Infographic"
   />
 </p>
