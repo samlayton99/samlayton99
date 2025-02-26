@@ -40,17 +40,50 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 
 <!-- Corresponding Links section -->
 <h3 align="left">Corresponding Repository Links</h3>
-
 <!-- Center the Table -->
 <p align="center">
 
-| [Linear Algebra](https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md)        | [Probability Theory](https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md)         | [Optimization](https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md)         | [Functional Analysis](https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md)         | [Dynamical Systems](https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md)         |
+| <u>**[Linear Algebra](https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md)**</u> | <u>**[Probability Theory](https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md)**</u> | <u>**[Optimization](https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md)**</u> | <u>**[Functional Analysis](https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md)**</u> | <u>**[Dynamical Systems](https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md)**</u> |
 | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| [Machine Learning](https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md) | [Latent Models](https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md) | [Calculus of Variations](https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md) | [Optimal Control](https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md) | [DSA](https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md)                    |
+| <u>**[Machine Learning](https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md)**</u> | <u>**[Latent Models](https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md)**</u> | <u>**[Calculus of Variations](https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md)**</u> | <u>**[Optimal Control](https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md)**</u> | <u>**[DSA](https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md)**</u> |
 
 </p>
 
-<h4 align="left">Tools and Proficiencies:</h4>
+
+
+
+<!-- Insert section to introduce my research/publications and current projects, formatting it nicely below -->
+<h3 align="left">Research, Publications, and Current Projects</h3>
+
+- [Research Publications](https://github.com/samlayton99?tab=repositories&q=topic:Research-Publications&sort=stars)
+- [Current Projects](https://github.com/samlayton99?tab=repositories&q=topic:Current-Projects&sort=stars)
+
+
+<!-- Insert section to highlight qunatitative finance and econometrics interest, formatting it nicely below -->
+<h3 align="left">Quantitative Finance and Econometrics Repositories</h3>
+
+- [Quantitative Finance](https://github.com/samlayton99?tab=repositories&q=topic:Quantitative-Finance&sort=stars)
+- [Econometrics](https://github.com/samlayton99?tab=repositories&q=topic:Econometrics&sort=stars)
+
+<!-- Insert section to highlight favorite senior projects and deep learning projects, formatting it nicely below -->
+<h3 align="left">Deep Learning and Senior Projects</h3>
+
+- [Deep Learning](https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars)
+- [Senior Project](https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars)
+
+
+
+<!-- Finally, Insert section for other projects and a link to an open source project that I will insert later, formatting it and explaining it nicely below -->
+<h3 align="left">Other Projects</h3>
+
+- [Web Development](https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars)
+- [Open Source ASR Glasses](https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars)
+
+
+<!-- Ending stuff showing skills, contact, etc. written here below -->
+<br>
+
+<h3 align="left">Tools and Proficiencies:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -65,28 +98,5 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<!-- Insert section to introduce my research/publications and current projects, formatting it nicely below -->
-- [Research Publications](https://github.com/samlayton99?tab=repositories&q=topic:Research-Publications&sort=stars)
-- [Current Projects](https://github.com/samlayton99?tab=repositories&q=topic:Current-Projects&sort=stars)
-
-
-<!-- Insert section to highlight qunatitative finance and econometrics interest, formatting it nicely below -->
-- [Quantitative Finance](https://github.com/samlayton99?tab=repositories&q=topic:Quantitative-Finance&sort=stars)
-- [Econometrics](https://github.com/samlayton99?tab=repositories&q=topic:Econometrics&sort=stars)
-
-<!-- Insert section to highlight favorite senior projects and deep learning projects, formatting it nicely below -->
-- [Senior Project](https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars)
-- [Deep Learning](https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars)
-
-
-
-<!-- Finally, Insert section for other projects and a link to an open source project that I will insert later, formatting it and explaining it nicely below -->
-- [Web Development](https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars)
--(other link to Augmented reality transcription glasses for deaf people open source project)
-
-
-<!-- Ending stuff showing skills, contact, etc. written here below -->
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samlayton99&label=Profile%20views&color=0e75b6&style=flat" alt="samlayton99" /> </p>
 
