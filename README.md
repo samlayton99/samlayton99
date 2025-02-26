@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=1e2d5c&center=true&vCenter=true&width=1000&lines=Welcome+to+Sam+Layton's+GitHub!;AI+Researcher+%7C+Quant+Finance+Specialist" alt="Typing SVG">
 <hr>
-<h4 align="center">Hi, I'm Sam Layton, an applied mathematician specializing in quantitative research and AI/ML.
+<h4 align="center">Hi, I'm Sam Layton, an applied mathematician and economist specializing in quantitative research and AI/ML.
 
 I build "gray-box" solutions to upgrade traditional models with new ML research. </h4>
 
@@ -18,8 +18,17 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <p>
     On this page, you can find my published research, open-source collaborations, and personal projects. Click the links to my repositories to see my openly available code.
 </p>
+<br>
 
+
+<!-- Area of Expertise Section -->
 <h3 align="left">Areas of Expertise</h3>
+<p>
+    Below is a summary of my mathematical training. Click the corresponding links below to see relevant projects and more details.
+</p>
+
+
+
 <!-- Center the Infographic Image -->
 <p align="center">
   <img 
@@ -29,7 +38,8 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 </p>
 
 
-<!-- Insert explanation that this table links directly to my repositories related to these topics -->
+<!-- Corresponding Links section -->
+<h3 align="left">Corresponding Repository Links</h3>
 
 <!-- Center the Table -->
 <p align="center">
@@ -79,14 +89,4 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <!-- Ending stuff showing skills, contact, etc. written here below -->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samlayton99&label=Profile%20views&color=0e75b6&style=flat" alt="samlayton99" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sam-layton-ai/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sam-layton-analytics/" height="30" width="40" /></a>
-<a href="https://fb.com/sam.layton.737/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sam.layton.737/" height="30" width="40" /></a>
-<a href="https://instagram.com/sam_r_layton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sam_r_layton/" height="30" width="40" /></a>
-</p>
-
-<br>
-
 
