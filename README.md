@@ -1,6 +1,5 @@
 <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
   <foreignObject width="100%" height="100%" x="0" y="0">
-    <html>
     <head>
       <style>
         .card {
@@ -44,7 +43,6 @@
         </div>
       </div>
     </body>
-  </html>
 
 
     
