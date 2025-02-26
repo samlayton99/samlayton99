@@ -59,7 +59,38 @@ More than just providing technical solutions, I also draw from my economics back
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<a href="https://www.dropbox.com/scl/fi/cc77nfzdymwqs6jdvs9v1/test_pdf.pdf?rlkey=5r3zlx5sj0rul95ftx7213n8n&st=5p8cf0ja&raw=1" target="_blank">Open PDF in a new tab</a>
+## My Repository Categories
+
+### 🧠 Machine Learning & Mathematics
+- [Machine Learning](https://github.com/samlayton99?tab=repositories&q=topic:Machine-Learning&sort=stars)
+- [Latent Models](https://github.com/samlayton99?tab=repositories&q=topic:Latent-Models&sort=stars)
+- [Calculus of Variations](https://github.com/samlayton99?tab=repositories&q=topic:Calculus-of-Variations&sort=stars)
+- [Optimal Control](https://github.com/samlayton99?tab=repositories&q=topic:Optimal-Control&sort=stars)
+- [DSA (Data Structures & Algorithms)](https://github.com/samlayton99?tab=repositories&q=topic:DSA&sort=stars)
+- [Linear Algebra](https://github.com/samlayton99?tab=repositories&q=topic:Linear-Algebra&sort=stars)
+- [Probability Theory](https://github.com/samlayton99?tab=repositories&q=topic:Probability-Theory&sort=stars)
+- [Optimization](https://github.com/samlayton99?tab=repositories&q=topic:Optimization&sort=stars)
+- [Functional Analysis](https://github.com/samlayton99?tab=repositories&q=topic:Functional-Analysis&sort=stars)
+- [Dynamical Systems](https://github.com/samlayton99?tab=repositories&q=topic:Dynamical-Systems&sort=stars)
+
+### 💻 Software & Web Development
+- [Web Development](https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars)
+
+### 📈 Finance & Economics
+- [Quantitative Finance](https://github.com/samlayton99?tab=repositories&q=topic:Quantitative-Finance&sort=stars)
+- [Econometrics](https://github.com/samlayton99?tab=repositories&q=topic:Econometrics&sort=stars)
+
+### 🤖 Deep Learning & AI Research
+- [Deep Learning](https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars)
+- [Research Publications](https://github.com/samlayton99?tab=repositories&q=topic:Research-Publications&sort=stars)
+
+### 🔬 Advanced Computing & Quantum
+- [Quantum Computing](https://github.com/samlayton99?tab=repositories&q=topic:Quantum-Computing&sort=stars)
+
+### 📌 Current Projects
+- [Current Projects](https://github.com/samlayton99?tab=repositories&q=topic:Current-Projects&sort=stars)
+- [Senior Project](https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars)
+
 
 
 
