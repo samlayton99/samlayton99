@@ -5,7 +5,7 @@
 <!-- Center the Infographic Image -->
 <p align="center">
   <img 
-    src="https://github.com/samlayton99/samlayton99/raw/main/categories/linear_algebra/linear_algebra.jpg"
+    src="https://github.com/samlayton99/samlayton99/raw/main/assets/test.png"
     alt="Infographic" 
     width="500"
   />
