@@ -2,9 +2,12 @@
 <h3 align="center">An Applied Mathematician who specializes in AI/Machine Learning and Economic Analysis. </h3>
 <br>
 
-<img src="https://github.com/samlayton99/samlayton99/raw/main/assets/layout.svg" alt="Categories Layout" width="500" height="300">
+<img src="https://github.com/samlayton99/samlayton99/raw/main/categories/linear_algebra/linear_algebra.jpg" alt="Linear Algebra" usemap="#testmap" width="500" height="300">
 
-
+<map name="testmap">
+  <area shape="rect" coords="0,0,250,300" href="https://www.google.com" alt="Google">
+  <area shape="rect" coords="250,0,500,300" href="https://www.youtube.com" alt="YouTube">
+</map>
 
 
 <p>
