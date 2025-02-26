@@ -43,16 +43,16 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 
 
 <!-- Corresponding Links section -->
-<h3 align="left">Corresponding Repository Links</h3>
+<h3 align="center"><em>Corresponding Repository Links</em></h3>
 <!-- Center the Table -->
-<p align="center">
+<div align="center">
 
 | <u>**[Linear Algebra](https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md)**</u> | <u>**[Probability Theory](https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md)**</u> | <u>**[Optimization](https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md)**</u> | <u>**[Functional Analysis](https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md)**</u> | <u>**[Dynamical Systems](https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md)**</u> |
 | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | <u>**[Machine Learning](https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md)**</u> | <u>**[Latent Models](https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md)**</u> | <u>**[Calculus of Variations](https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md)**</u> | <u>**[Optimal Control](https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md)**</u> | <u>**[DSA](https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md)**</u> |
 
-</p>
-
+</div>
+<br>
 
 <!-- Research, Publications, and Current Projects -->
 <h3 align="left">Research, Publications, and Current Projects</h3>
