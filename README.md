@@ -16,7 +16,11 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <!-- An intro statement here. please update it to be actually interesting  -->
 <h3 align="left">Profile Summary</h3>
 <p>
-    On this page, you can find my published research, open-source collaborations, and personal projects. Click the links to my repositories to see my openly available code.
+    <ul>
+        <li>3+ years of math & data experience: from <b>optimization</b> to <b>machine learning</b>.</li>
+        <li>Focused on bridging cutting-edge <b>deep learning</b> research into <b>algorithmic trading</b> and <b>financial modeling</b>.</li>
+        <li>Open Source Collaborator: please use any of my presented code for your convenience</li>
+    </ul>
 </p>
 <br>
 
@@ -24,7 +28,7 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <!-- Area of Expertise Section -->
 <h3 align="left">Areas of Expertise</h3>
 <p>
-    Below is a summary of my mathematical training. Click the corresponding links below to see relevant projects and more details.
+    Below is a summary of my mathematical training. Click the links below to see relevant projects and further details.
 </p>
 
 
@@ -50,34 +54,73 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 </p>
 
 
-
-
-<!-- Insert section to introduce my research/publications and current projects, formatting it nicely below -->
+<!-- Research, Publications, and Current Projects -->
 <h3 align="left">Research, Publications, and Current Projects</h3>
+<ul>
+  <li>
+    📚 <b>Research Publications:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Research-Publications&sort=stars" target="_blank">
+      Explore my academic papers
+    </a>, featuring advanced math, AI techniques, and real-world applications.
+  </li>
+  <li>
+    🔬 <b>Current Projects:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Current-Projects&sort=stars" target="_blank">
+      See what I'm developing right now
+    </a>, from experimental ML models to new financial prototypes.
+  </li>
+</ul>
 
-- [Research Publications](https://github.com/samlayton99?tab=repositories&q=topic:Research-Publications&sort=stars)
-- [Current Projects](https://github.com/samlayton99?tab=repositories&q=topic:Current-Projects&sort=stars)
-
-
-<!-- Insert section to highlight qunatitative finance and econometrics interest, formatting it nicely below -->
+<!-- Quantitative Finance and Econometrics Repositories -->
 <h3 align="left">Quantitative Finance and Econometrics Repositories</h3>
+<ul>
+  <li>
+    💹 <b>Quantitative Finance:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Quantitative-Finance&sort=stars" target="_blank">
+      Dive into my trading strategies and risk management code
+    </a>, merging traditional approaches with ML insights.
+  </li>
+  <li>
+    📈 <b>Econometrics:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Econometrics&sort=stars" target="_blank">
+      Check out my econometric models
+    </a> for predictive analytics and macroeconomic forecasting.
+  </li>
+</ul>
 
-- [Quantitative Finance](https://github.com/samlayton99?tab=repositories&q=topic:Quantitative-Finance&sort=stars)
-- [Econometrics](https://github.com/samlayton99?tab=repositories&q=topic:Econometrics&sort=stars)
-
-<!-- Insert section to highlight favorite senior projects and deep learning projects, formatting it nicely below -->
+<!-- Deep Learning and Senior Projects -->
 <h3 align="left">Deep Learning and Senior Projects</h3>
+<ul>
+  <li>
+    🧠 <b>Deep Learning:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars" target="_blank">
+      Explore my neural network implementations
+    </a>, from computer vision to NLP and beyond.
+  </li>
+  <li>
+    🎓 <b>Senior Project:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars" target="_blank">
+      Discover my capstone work
+    </a> that combined advanced mathematics with hands-on AI solutions.
+  </li>
+</ul>
 
-- [Deep Learning](https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars)
-- [Senior Project](https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars)
-
-
-
-<!-- Finally, Insert section for other projects and a link to an open source project that I will insert later, formatting it and explaining it nicely below -->
+<!-- Other Projects -->
 <h3 align="left">Other Projects</h3>
-
-- [Web Development](https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars)
-- [Open Source ASR Glasses](https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars)
+<ul>
+  <li>
+    🌐 <b>Web Development:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars" target="_blank">
+      Check out my front-end and back-end experiments
+    </a>, bridging AI-driven insights with user-friendly designs.
+  </li>
+  <li>
+    🥽 <b>Open Source ASR Glasses:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Web-Development&sort=stars" target="_blank">
+      Learn about my assistive device project
+    </a> aimed at real-time speech recognition and accessibility.
+  </li>
+</ul>
 
 
 <!-- Ending stuff showing skills, contact, etc. written here below -->
