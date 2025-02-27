@@ -61,13 +61,13 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <br>
 
 
-
+<h2 align="left">Relevant Repository Categories</h3>
 
 <!-- Research, Publications, and Current Projects -->
 <h3 align="left">Research, Publications, and Current Projects</h3>
 <ul>
   <li>
-    📚 <b>Research Publications:</b> 
+    📚 <b>Research and Publications:</b> 
     <a href="https://github.com/samlayton99?tab=repositories&q=topic:Research-Publications&sort=stars" target="_blank">
       Explore my academic papers
     </a>, featuring advanced math, AI techniques, and real-world applications.
