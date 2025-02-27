@@ -1,20 +1,31 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=1e2d5c&center=true&vCenter=true&width=1000&lines=Welcome+to+Sam+Layton's+GitHub!;AI+Researcher+%7C+Quant+Finance+Specialist" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=b39133&center=true&vCenter=true&width=1000&lines=Welcome+to+Sam+Layton's+GitHub!;AI+Researcher+%7C+Quant+Finance+Specialist" alt="Typing SVG">
 <hr>
-<h4 align="center">Hi, I'm Sam Layton, an applied mathematician and economist specializing in quantitative research and AI/ML.
+<h3 align="center">Hi, I'm Sam Layton, an applied mathematician and economist specializing in quantitative research and AI/ML.
 
-I build "gray-box" solutions to upgrade traditional models with new ML research. </h4>
+I build "gray-box" solutions to upgrade traditional models with new ML research. </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/sam-layton-ai/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sam-layton-analytics/" height="30" width="40" /></a>
-<a href="https://fb.com/sam.layton.737/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sam.layton.737/" height="30" width="40" /></a>
-<a href="https://instagram.com/sam_r_layton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sam_r_layton/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sam-layton-ai/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  <!-- New Gmail icon/link -->
+  <a href="mailto:samlayton99@gmail.com" target="blank">
+    <img align="center" src="./assets/gmail.png" alt="Gmail" height="30" width="35" />
+  </a>
+  <!-- New X icon/link -->
+  <a href="https://x.com/samlayton99" target="blank">
+    <img align="center" src="./assets/x-icon.png" alt="X (formerly Twitter)" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sam_r_layton/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+  </a>
 </p>
 <hr>
 
 
 
 <!-- An intro statement here. please update it to be actually interesting  -->
-<h3 align="left">Profile Summary</h3>
+<h2 align="left">Profile Summary</h2>
 <p>
     <ul>
         <li>3+ years of math & data experience: from <b>optimization</b> to <b>machine learning</b>.</li>
@@ -26,7 +37,7 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 
 
 <!-- Area of Expertise Section -->
-<h3 align="left">Areas of Expertise</h3>
+<h2 align="left">Areas of Expertise</h2>
 <p>
     Below is a summary of my mathematical training. Click the links below to see relevant projects and further details.
 </p>
@@ -43,7 +54,7 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 
 
 <!-- Corresponding Links section -->
-<h3 align="center"><em>Corresponding Repository Links</em></h3>
+<h2 align="center"><em>Corresponding Repository Links</em></h2>
 <!-- Center the Table -->
 <div align="center">
 
@@ -52,6 +63,29 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 | <u>**[Machine Learning](https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md)**</u> | <u>**[Latent Models](https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md)**</u> | <u>**[Calculus of Variations](https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md)**</u> | <u>**[Optimal Control](https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md)**</u> | <u>**[DSA](https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md)**</u> |
 
 </div>
+
+<div align="center">
+
+<table>
+  <tr style="background-color: #1e2d5c; color: white;">
+    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md" style="color: white;">Linear Algebra</a></u></th>
+    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md" style="color: white;">Probability Theory</a></u></th>
+    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md" style="color: white;">Optimization</a></u></th>
+    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md" style="color: white;">Functional Analysis</a></u></th>
+    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md" style="color: white;">Dynamical Systems</a></u></th>
+  </tr>
+  <tr style="background-color: #b39133; color: white;">
+    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md" style="color: white;">Machine Learning</a></u></td>
+    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md" style="color: white;">Latent Models</a></u></td>
+    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md" style="color: white;">Calculus of Variations</a></u></td>
+    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md" style="color: white;">Optimal Control</a></u></td>
+    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md" style="color: white;">DSA</a></u></td>
+  </tr>
+</table>
+
+</div>
+
+
 <br>
 
 <!-- Research, Publications, and Current Projects -->
