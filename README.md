@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=b39133&center=true&vCenter=true&width=1000&lines=Welcome+to+Sam+Layton's+GitHub!;AI+Researcher+%7C+Quant+Finance+Specialist" alt="Typing SVG">
 <hr>
-<h3 align="center">Hi, I'm Sam Layton, an applied mathematician and economist specializing in quantitative research and AI/ML.
+<h4 align="center">Hi, I'm Sam Layton, an applied mathematician and economist specializing in quantitative research and AI/ML.
 
-I build "gray-box" solutions to upgrade traditional models with new ML research. </h3>
+I build "gray-box" solutions to upgrade traditional models with new ML research. </h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/sam-layton-ai/" target="_blank" rel="noopener noreferrer">
@@ -63,30 +63,18 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 | <u>**[Machine Learning](https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md)**</u> | <u>**[Latent Models](https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md)**</u> | <u>**[Calculus of Variations](https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md)**</u> | <u>**[Optimal Control](https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md)**</u> | <u>**[DSA](https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md)**</u> |
 
 </div>
-
+<br>
 <div align="center">
 
-<table>
-  <tr style="background-color: #1e2d5c; color: white;">
-    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md" style="color: white;">Linear Algebra</a></u></th>
-    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md" style="color: white;">Probability Theory</a></u></th>
-    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md" style="color: white;">Optimization</a></u></th>
-    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md" style="color: white;">Functional Analysis</a></u></th>
-    <th><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md" style="color: white;">Dynamical Systems</a></u></th>
-  </tr>
-  <tr style="background-color: #b39133; color: white;">
-    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md" style="color: white;">Machine Learning</a></u></td>
-    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md" style="color: white;">Latent Models</a></u></td>
-    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md" style="color: white;">Calculus of Variations</a></u></td>
-    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md" style="color: white;">Optimal Control</a></u></td>
-    <td><u><a href="https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md" style="color: white;">DSA</a></u></td>
-  </tr>
-</table>
+| <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/linear_algebra/linear_algebra.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=1E2D5C&center=true&vCenter=true&width=220&lines=Linear+Algebra" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/probability_theory/probability_theory.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=1E2D5C&center=true&vCenter=true&width=220&lines=Probability+Theory" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/optimization/optimization.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=1E2D5C&center=true&vCenter=true&width=220&lines=Optimization" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/functional_analysis/functional_analysis.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=1E2D5C&center=true&vCenter=true&width=220&lines=Functional+Analysis" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/dynamical_systems/dynamical_systems.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=1E2D5C&center=true&vCenter=true&width=220&lines=Dynamical+Systems" alt="Typing SVG" /></a> |
+| --- | --- | --- | --- | --- |
+| <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/machine_learning/machine_learning.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=B39133&center=true&vCenter=true&width=220&lines=Machine+Learning" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/latent_models/latent_models.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=B39133&center=true&vCenter=true&width=220&lines=Latent+Models" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/calculus_of_variations/calculus_of_variations.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=B39133&center=true&vCenter=true&width=220&lines=Calculus+of+Variations" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/optimal_control/optimal_control.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=B39133&center=true&vCenter=true&width=220&lines=Optimal+Control" alt="Typing SVG" /></a> | <a href="https://github.com/samlayton99/samlayton99/blob/main/categories/dsa/dsa.md"><img src="https://readme-typing-svg.herokuapp.com?size=16&duration=0.01&pause=9999999999&color=FFFFFF&background=B39133&center=true&vCenter=true&width=220&lines=DSA" alt="Typing SVG" /></a> |
 
 </div>
 
 
-<br>
+
+
 
 <!-- Research, Publications, and Current Projects -->
 <h3 align="left">Research, Publications, and Current Projects</h3>
