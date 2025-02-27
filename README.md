@@ -54,7 +54,7 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 
 
 <!-- Corresponding Links section -->
-<h2 align="center"><em>Corresponding Repository Links</em></h2>
+<h2 align="center"><em>Corresponding Repository Links (Clickable Table Links)</em></h2>
 
 <!-- Center the Table -->
 <div align="center">
