@@ -47,7 +47,7 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 <!-- Center the Infographic Image -->
 <p align="center">
   <img 
-    src="https://github.com/samlayton99/samlayton99/raw/main/assets/applied_math.png"
+    src="https://github.com/samlayton99/samlayton99/raw/main/assets/experience.png"
     alt="Infographic"
   />
 </p>
