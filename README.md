@@ -30,6 +30,22 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
 </p>
 <br>
 
+<!-- Deep Learning and Senior Projects -->
+<h3 align="left">(Note) I am still migrating all my projects, so view this compiled list first!</h3>
+<ul>
+  <li>
+    🧠 <b>Deep Learning:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars" target="_blank">
+      Explore my neural network implementations
+    </a>, from computer vision to NLP and beyond.
+  </li>
+  <li>
+    🎓 <b>Senior Project:</b> 
+    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars" target="_blank">
+      Discover my capstone work
+    </a> that combined advanced mathematics with hands-on AI solutions.
+  </li>
+</ul>
 
 <!-- Area of Expertise Section -->
 <h2 align="left">Areas of Expertise</h2>
@@ -97,22 +113,6 @@ I build "gray-box" solutions to upgrade traditional models with new ML research.
   </li>
 </ul>
 
-<!-- Deep Learning and Senior Projects -->
-<h3 align="left">Deep Learning and Senior Projects</h3>
-<ul>
-  <li>
-    🧠 <b>Deep Learning:</b> 
-    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Deep-Learning&sort=stars" target="_blank">
-      Explore my neural network implementations
-    </a>, from computer vision to NLP and beyond.
-  </li>
-  <li>
-    🎓 <b>Senior Project:</b> 
-    <a href="https://github.com/samlayton99?tab=repositories&q=topic:Senior-Project&sort=stars" target="_blank">
-      Discover my capstone work
-    </a> that combined advanced mathematics with hands-on AI solutions.
-  </li>
-</ul>
 
 <!-- Other Projects -->
 <h3 align="left">Other Projects</h3>
